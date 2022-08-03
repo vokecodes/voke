@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Uchen&display=swap");
 
 .App {
-  background-image: url("/public/IMG_7743.jpg");
+  background-color: #000;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
